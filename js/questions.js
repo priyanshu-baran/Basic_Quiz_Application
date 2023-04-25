@@ -41,9 +41,14 @@ let questions = [
   },
   {
     numb: 5,
-    question: 'In how many ways can CSS be written in?',
-    answer: '3',
-    options: ['1', '2', '3', '4'],
+    question: 'What is the Full-Form of MERN Stack?',
+    answer: 'MongoDB Express React and Node',
+    options: [
+      'MongoDb Express Redux and NPM',
+      'MongoDB Express React and Node',
+      'Express Node React and MongoDB',
+      'MySQL Ember React and Node',
+    ],
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
