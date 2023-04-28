@@ -7,7 +7,7 @@ A simple webpage made using HTML, CSS, and JavaScript for self-learning purpose.
 
 ---
 
-## Demo
+## Demo 👀
 
 <br>
 
@@ -26,7 +26,7 @@ For this one, I have used <a href="https://app.netlify.com" target="_blank">Netl
 
 ---
 
-## Features
+## Features 🌟🌟
 
 <br>
 
@@ -45,7 +45,7 @@ For this one, I have used <a href="https://app.netlify.com" target="_blank">Netl
 
 ---
 
-## Usage
+## Usage 📖
 
 <br>
 
@@ -68,7 +68,7 @@ For this one, I have used <a href="https://app.netlify.com" target="_blank">Netl
 
 ---
 
-## Contributing
+## Contributing 📝
 
 <br>
 
